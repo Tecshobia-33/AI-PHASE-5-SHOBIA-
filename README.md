@@ -1,6 +1,8 @@
 # AI-PHASE-5-SHOBIA-
 AI PHASE 5 SUBMISSION 
 Certainly, here's a basic structure for a README file for a diabetes prediction system using machine learning. You can use this as a template and customize it according to your specific project:
+Data source :(https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
+Reference:kaggle.com(Diabetes prediction System)
 
 # Diabetes Prediction System
 
